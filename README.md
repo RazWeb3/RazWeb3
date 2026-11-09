@@ -18,4 +18,4 @@ Freelance AI-driven app developer based in Japan. I design and ship my own produ
 ## Work with me
 
 - Freelance / contract, **remote only**
-- [LinkedIn](https://www.linkedin.com/in/akira-shimizu-a11a64428/)
+- [LinkedIn](https://www.linkedin.com/in/akira-shimizu/)
